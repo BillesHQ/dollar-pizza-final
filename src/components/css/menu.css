@@ -1,12 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Edu+QLD+Beginner&display=swap');
+
 .Menu {
   background-image: linear-gradient(to right top, #b40000, #ca3929, #de5c4c, #ef7c70, #fe9c93);
 
 }
 
 .Menu .primary-text{
-  padding-top: 5%
+  padding-top: 5%;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
 }
 
 .Menu .secondary-text{
-  padding-bottom: 3%
+  padding-bottom: 3%;
+  color: white;
+  font-family:'Koulen', cursive;
+  font-size:30px;
+  font-weight: bold; 
+  text-align: center;
 }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Edu+QLD+Beginner&display=swap');
+
 .Pizza {
   height: 50vh;
   background: url(../images/pizza-splash.jpg);
@@ -7,4 +9,8 @@
 
 .Pizza .header-text {
   padding-top: 8%;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 120px;
+  text-align: center;
 }
